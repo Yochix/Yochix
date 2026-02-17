@@ -4,7 +4,28 @@
 
 ###
 
-<h1 align="left">Hi 👋! My names Yoch1x | Building digital empires. <br>🚀 High school student, Full Stack Developer & Entrepreneur in the making. 🧠</h1>
+<table align="center">
+  <tr>
+    <td>
+      <p align="left">
+        <strong>⚡ The Self-Reliant Developer ('09 Class)</strong><br>
+        Nasci em 2009 e encaro a programação como a fundação do meu império. Minha meta é a <b>independência total</b>: domino o máximo de ferramentas para nunca depender de ninguém para tirar meus projetos do papel.
+      </p>
+      <p align="left">
+        🚀 <strong>Evolução Atual:</strong> Focado no curso <b>Full Stack</b> completo (Node, React, TS, Redux e Design Patterns). Ao mesmo tempo, exploro <b>Ruby</b> para garantir que minha caixa de ferramentas nunca esteja vazia.
+      </p>
+      <p align="left">
+        🌍 <strong>Global Mindset:</strong> Estudando inglês para dominar documentações e o mercado internacional. 
+      </p>
+      <p align="left">
+        🎮 <strong>Setup & Lifestyle:</strong> Desenvolvendo no <b>Windows</b> (produtividade + gaming), mas pronto para qualquer OS que o desafio exigir. No tempo livre, observo o mercado e jogo para resetar a mente.
+      </p>
+      <p align="center">
+        <i>"Construindo em silêncio para que os resultados façam barulho."</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ###
 
