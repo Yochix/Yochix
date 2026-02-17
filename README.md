@@ -6,17 +6,14 @@
 
 > **'09 Class | Full Stack Developer in Training**
 >
-> Born in 2009, I see programming as a powerful tool to build innovative solutions and drive digital transformation. My focus is on **technical autonomy**: mastering a diverse stack to ensure I can deliver end-to-end projects with efficiency and high quality.
+> I am a developer focused on learning how to build functional and efficient applications. My goal is to master the entire development cycle (Front-end and Back-end) to deliver complete solutions and solve real-world problems through code.
 >
-> * 🚀 **Current Stack:** Deep diving into a **Full Stack** career path (Node, React, TS, Redux & Design Patterns). I am also exploring **Ruby** to broaden my architectural perspective and problem-solving skills.
-> * 🌍 **Global Communication:** Consistently improving my English to collaborate with international teams and master global tech documentation.
-> * 🧠 **Goal:** To create high-impact software and contribute to the global tech ecosystem. I value scalability, clean code, and continuous learning.
-> * 🎮 **Setup:** Windows-based workflow (balanced for productivity and performance), with the flexibility to adapt to any environment (Linux/Unix) as project requirements evolve.
+> * 🚀 **Current Studies:** I am currently dedicated to a **Full Stack** path, learning Node, React, TypeScript, Redux, and Design Patterns. I am also learning **Ruby** to expand my logic and versatility.
+> * 🌍 **English:** I study English daily to access better documentations and prepare for future international opportunities.
+> * 🧠 **Mindset:** I value clean code and constant learning. My focus is on building solid projects that actually work and add value.
+> * 🎮 **Tools:** I use **Windows** for my daily workflow, but I am ready to learn and switch to **Linux** or any other environment whenever a project requires it.
 >
-> *"Focused on building solid solutions and delivering value through code."*
-
-<img align="right" height="150" src="https://i.pinimg.com/736x/9e/e1/fd/9ee1fddcce2744749f5fd6c04dddf773.jpg"  />
-
+> *"Building solid solutions and delivering value through code."*
 ###
 
 <div align="center">
