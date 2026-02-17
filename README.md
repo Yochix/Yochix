@@ -4,11 +4,15 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">👋 Hi! I'm Wellington, you can call me **Yoch1x**.<br><br>🌍 Brazil | 🎓 Finishing High School | 🚀 Future student of Systems Analysis and Development (ADS)<br><br>💡 **Generalist Developer**. I believe that **versatility trumps specialization** — why limit yourself to a single technology or knowledge when you can master several?<br><br>📚 Currently, I'm specializing in: **JavaScript • TypeScript • Node.js • React • Ruby**. I also intend to specialize in other things.<br><br>🔍 I seek knowledge daily — courses, documentation, forums, the internet, etc... Certifications and practice have the same weight for me; both are important.<br><br>⚡ I work with organization. I solve problems now or deliver quick solutions. Disorganized code tests my patience, but challenges motivate me.<br><br>🎯 Focus on the present to build a bright future.<br><br>💼 Open to remote work worldwide.</h3>
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/9e/e1/fd/9ee1fddcce2744749f5fd6c04dddf773.jpg"  />
+<br clear="both">
+
+<img align="right" height="277" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnMydGY4bno0eGs2NjFycWk0a2R6dGtzc2xsc3I4amg0cXo4dmt0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlVObChD6Fb5C/giphy.gif"  />
 
 ###
 
