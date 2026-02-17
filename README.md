@@ -1,77 +1,54 @@
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&text=Hi,%20I'm%20Yoch1x&desc=Full%20Stack%20Developer%20in%20making&descSize=20&descAlign=50&descAlignY=65&theme=tokyonight" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
 ###
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yochix.Yochix&" />
-  <img src="https://img.shields.io/github/repo-size/Yochix/Yochix?color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/languages/count/Yochix/Yochix?color=blueviolet&style=flat-square" />
-</p>
-
-<p align="center">
-  I'm a developer born in <b>'09</b> focused on building functional and efficient applications. 🚀 <br>
-  My goal is to master the entire development cycle to solve real-world problems through code. 🧠 <br>
-  Currently studying English daily to collaborate with international teams and master global documentation.
-</p>
+<h3 align="left">👋 Hi! I'm Wellington, you can call me **Yoch1x**.<br><br>🌍 Brazil | 🎓 Finishing High School | 🚀 Future student of Systems Analysis and Development (ADS)<br><br>💡 **Generalist Developer**. I believe that **versatility trumps specialization** — why limit yourself to a single technology or knowledge when you can master several?<br><br>📚 Currently, I'm specializing in: **JavaScript • TypeScript • Node.js • React • Ruby**. I also intend to specialize in other things.<br><br>🔍 I seek knowledge daily — courses, documentation, forums, the internet, etc... Certifications and practice have the same weight for me; both are important.<br><br>⚡ I work with organization. I solve problems now or deliver quick solutions. Disorganized code tests my patience, but challenges motivate me.<br><br>🎯 Focus on the present to build a bright future.<br><br>💼 Open to remote work worldwide.</h3>
 
 ###
 
-<h3 align="center">Technology Stack 🛠️</h3>
+<img align="right" height="246" src="https://i.pinimg.com/736x/9e/e1/fd/9ee1fddcce2744749f5fd6c04dddf773.jpg"  />
+
+###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="35" alt="ruby logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo" />
-</div>
-
-###
-
-<h3 align="center">My GitHub Stats 📊</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yochix&show_icons=true&theme=tokyonight&count_private=true" alt="Yochix stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yochix&layout=compact&theme=tokyonight&hide_langs=html,css" alt="top langs" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yochix&theme=tokyonight" alt="streak stats" />
-</p>
-
-###
-
-<h3 align="center">Connect with me 🤝</h3>
-
-<div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="SEU_LINK_DISCORD">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="SEU_LINK_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="SEU_LINK_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&theme=tokyonight" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yoch1x.Yoch1x&"  />
+</div>
+
+###
