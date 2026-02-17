@@ -2,31 +2,17 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
-###
+### ⚡ About Me
 
-<table align="center">
-  <tr>
-    <td>
-      <p align="left">
-        <strong>⚡ The Self-Reliant Developer ('09 Class)</strong><br>
-        Nasci em 2009 e encaro a programação como a fundação do meu império. Minha meta é a <b>independência total</b>: domino o máximo de ferramentas para nunca depender de ninguém para tirar meus projetos do papel.
-      </p>
-      <p align="left">
-        🚀 <strong>Evolução Atual:</strong> Focado no curso <b>Full Stack</b> completo (Node, React, TS, Redux e Design Patterns). Ao mesmo tempo, exploro <b>Ruby</b> para garantir que minha caixa de ferramentas nunca esteja vazia.
-      </p>
-      <p align="left">
-        🌍 <strong>Global Mindset:</strong> Estudando inglês para dominar documentações e o mercado internacional. 
-      </p>
-      <p align="left">
-        🎮 <strong>Setup & Lifestyle:</strong> Desenvolvendo no <b>Windows</b> (produtividade + gaming), mas pronto para qualquer OS que o desafio exigir. No tempo livre, observo o mercado e jogo para resetar a mente.
-      </p>
-      <p align="center">
-        <i>"Construindo em silêncio para que os resultados façam barulho."</i>
-      </p>
-    </td>
-  </tr>
-</table>
-
+> **'09 Class | The Self-Reliant Developer**
+>
+> Born in 2009, I view programming as the foundation of my empire. My ultimate goal is **total independence**: mastering a wide range of tools so I never have to rely on anyone to turn my ideas into reality.
+>
+> * 🚀 **Current Evolution:** Deep diving into a **Full Stack** path (Node, React, TS, Redux & Design Patterns). Simultaneously exploring **Ruby** to ensure my toolbox is never empty.
+> * 🌍 **Global Mindset:** Learning English daily to master documentation and reach the international market.
+> * 🎮 **Setup & Lifestyle:** Developing on **Windows** (productivity + gaming), but ready to pivot to any OS as the challenge demands. In my downtime, I track the market and game to reset.
+>
+> *"Building in silence, letting the results make the noise."*
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/736x/9e/e1/fd/9ee1fddcce2744749f5fd6c04dddf773.jpg"  />
