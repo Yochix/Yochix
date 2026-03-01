@@ -10,12 +10,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="277" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnMydGY4bno0eGs2NjFycWk0a2R6dGtzc2xsc3I4amg0cXo4dmt0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jlVObChD6Fb5C/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
